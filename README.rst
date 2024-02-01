@@ -25,7 +25,6 @@ A Python module to represent the galleon, sickle and knut coin of wizard currenc
 
 Features
 --------
-
 Here's some xample code demonstrating how this module is used:
     >>> import wizcoin
     >>> coin = qizcoin.WizCoin(2, 5, 10)
